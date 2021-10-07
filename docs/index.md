@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the Computing Competency Curriculum Foundation
 
 You can use the [editor on GitHub](https://github.com/c-c-c-f/ISLD/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
